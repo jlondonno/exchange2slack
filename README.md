@@ -12,7 +12,7 @@ Get a Slack API Key and the client secret
     Visit https://api.slack.com/applications
     There you must create the app with a name equal to exchange2slack.
     When you create the app, Slack will provide to you the client secret.  This
-    Value must be replaced in the config.ini file in the slack_apikey client_secret entry 
+    Value must be replaced in the config.ini file in the client_secret entry 
 
 
 # Run Once
