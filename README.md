@@ -1,9 +1,8 @@
 # exchange2slack
 This app is usefil to read the exchange inbox and send a direct message to Slack for each new email (unseen messages)
 
-Get a Slack API Key
+Get a Slack API Key and the client secret
 
-Next, get a Slack API key.
 
     Visit https://api.slack.com/web
     Sign in if you need to
